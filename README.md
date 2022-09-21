@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Collyz aka Mohammed Mowla
 - 👀 I’m interested in anything that involves coding!
-- 🌱 I’m currently a sophomore in Stockton University. I am majoring in Computer Science, and minoring in Mathematics
-- 📫 How to reach me: email moh.mowla@gmail.com
+- 🌱 I’m currently a Junior in Stockton University. I am majoring in Computer Science, and minoring in Mathematics
+- 📫 How to reach me: email m.mowla03151@gmail.com
 
 <!---
 Collyz/Collyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
