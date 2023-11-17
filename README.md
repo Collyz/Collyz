@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Collyz aka Mohammed Mowla
-- 👀 I’m interested in web/desktop app development and computer graphics. New found interest in mobile app development. Overcome with grief that game engine creation is extremely difficult.
+- 👀 I’m interested in web/desktop app development and computer graphics. 
 - 🌱 I’m currently a Senior at Stockton University. I am majoring in Computer Science, and minoring in Mathematics
 - 📫 How to reach me: Email: m.mowla03151@gmail.com (personal) and mowlam1@go.stockton.edu (school)
 
