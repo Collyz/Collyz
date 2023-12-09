@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Collyz aka Mohammed Mowla
-- 👀 I’m interested in computer graphics and 3D triangulation techniques. 
+- 👀 I’m interested in computer graphics and triangulation techniques. 
 - 🌱 I’m currently a Senior at Stockton University. I am majoring in Computer Science, and minoring in Mathematics
 - 📫 How to reach me: Email: m.mowla03151@gmail.com (personal) and mowlam1@go.stockton.edu (school)
 
